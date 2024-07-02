@@ -1,0 +1,4 @@
+homepage: "https://github.com/slsa-framework/slsa-verifier"
+language: "go"
+primary_contact: "rpetgravegoogle.com"
+main_repo: "https://github.com/slsa-framework/slsa-verifier.git"
